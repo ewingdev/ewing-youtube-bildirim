@@ -1,0 +1,27 @@
+{
+  "name": "ewing-ytbildirim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "youtube",
+    "discord.js",
+    "bildirim-bot"
+  ],
+  "author": "Ewing",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "quick.db": "^7.1.2",
+    "rss-converter": "^1.1.6",
+    "rss-parser": "^3.12.0"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
